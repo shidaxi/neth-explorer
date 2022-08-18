@@ -13,7 +13,7 @@
       "url": "images\/logo512.png"
     },
     {
-      "hash": "sha256-lsLh9YkgnCtrJoAnBsti9DGJ4+3SY44JciPo6dcM\/5k=",
+      "hash": "sha256-yju\/fLIjIEb\/yWRunNMt3aFf2c25EI\/sn1tM9QDINdQ=",
       "url": "index.html"
     },
     {
@@ -53,7 +53,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-pkNgo5BqUYCTDZJ+FRyGCIiOivpRYAM8jiCFwNUUqQ8=",
+      "hash": "sha256-0n5CfHSWP6ZSIcLaSOXkULnpz7mb7h9mOdttZ8FORQU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -253,7 +253,7 @@
       "url": "_framework\/NethereumExplorer.ClientWasm.dll"
     },
     {
-      "hash": "sha256-k9FEvnxib3ysgBw96IJiApLqAvZ11Wdx+ltMddvMOLc=",
+      "hash": "sha256-aypRffNmnRMoYTLNl2KsnQltz91wR6YFAUkul9d0Pzc=",
       "url": "_framework\/NethereumExplorer.Core.dll"
     },
     {
@@ -705,5 +705,5 @@
       "url": "_content\/NethereumExplorer.Core\/NethereumExplorer.Core.bundle.scp.css"
     }
   ],
-  "version": "ivEHJ50+"
+  "version": "M0ogbEg9"
 };
