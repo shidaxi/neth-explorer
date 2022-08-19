@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-UumfsWcx4ZATLKBr1ntS04QN2f8FYxqRPob1YL8TkR4=",
+      "hash": "sha256-E8iyfibE4c6ZGvbe\/SdzEWT+FLIhUMSuVb3jaZ+5DTY=",
       "url": "CNAME"
     },
     {
@@ -13,7 +13,7 @@
       "url": "images\/logo512.png"
     },
     {
-      "hash": "sha256-yju\/fLIjIEb\/yWRunNMt3aFf2c25EI\/sn1tM9QDINdQ=",
+      "hash": "sha256-lsLh9YkgnCtrJoAnBsti9DGJ4+3SY44JciPo6dcM\/5k=",
       "url": "index.html"
     },
     {
@@ -705,5 +705,5 @@
       "url": "_content\/NethereumExplorer.Core\/NethereumExplorer.Core.bundle.scp.css"
     }
   ],
-  "version": "M0ogbEg9"
+  "version": "stZVXvXa"
 };
