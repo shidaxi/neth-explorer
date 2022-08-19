@@ -200,16 +200,17 @@
 
     public List<string> DefaultRpcEndPoints = new List<string>(new []
         {
+        "http://127.0.0.1:8545",
+        "http://127.0.0.1:9545",
+        "http://127.0.0.1:7545",
         "https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
         "https://kovan.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
         "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
-        "https://rinkeby.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+        "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
         "https://mainnet.optimism.io",
         "https://kovan.optimism.io",
-        "https://goerli.optimism.io",
-        "http://127.0.0.1:7545",
-        "http://127.0.0.1:8545",
-        "http://127.0.0.1:9545"
+        "https://ropsten.optimism.io",
+        "https://goerli.optimism.io"
         });
    
     protected void UrlChange(ChangeEventArgs urlChangeEventArgs)
