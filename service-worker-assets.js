@@ -53,7 +53,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-0n5CfHSWP6ZSIcLaSOXkULnpz7mb7h9mOdttZ8FORQU=",
+      "hash": "sha256-Aqkp\/+czm1a9ywgrnU75AVDxD0Pg4kMjQ2PgrMEdw3U=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -253,7 +253,7 @@
       "url": "_framework\/NethereumExplorer.ClientWasm.dll"
     },
     {
-      "hash": "sha256-aypRffNmnRMoYTLNl2KsnQltz91wR6YFAUkul9d0Pzc=",
+      "hash": "sha256-aeYOfXT9duA0ELKbZ6Og2dc4FQccl0h3uom+pkCvCcw=",
       "url": "_framework\/NethereumExplorer.Core.dll"
     },
     {
@@ -705,5 +705,5 @@
       "url": "_content\/NethereumExplorer.Core\/NethereumExplorer.Core.bundle.scp.css"
     }
   ],
-  "version": "stZVXvXa"
+  "version": "k\/Hqdf\/W"
 };
